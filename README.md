@@ -10,4 +10,7 @@ Use the movie reviewer dataset to analysis sentiment.
 * sklearn
 
 # Dateset
-The trainning and testing date is from the [Reviewer commet](http://ai.stanford.edu/~amaas/data/sentiment)
+The trainning and testing date is from the "[Reviewer commet]".(http://ai.stanford.edu/~amaas/data/sentiment)
+
+# Algorithm
+The paper from here. http://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf
